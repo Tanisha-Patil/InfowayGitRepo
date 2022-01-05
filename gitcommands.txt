@@ -58,3 +58,4 @@ git clone "git url" - it will copy the entire repository to the specific folder 
 
 git add file -
 git add *
+git commit -m "updated version for git command"
